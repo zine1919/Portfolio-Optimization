@@ -13,6 +13,7 @@ Un projet avancé basé sur la méthode Solver d'Excel pour l'optimisation de po
 
 ***Projet_Segmentation_des_clients***\
 Un notebook Jupyter Python pour la segmentation de la clientèle en finance, utilisant des techniques d'analyse de données pour comprendre et catégoriser efficacement le comportement des clients.
+
 ***Projets Reporting Finance :Executive Summary – Finance Report***\
 Le reporting avec Power BI
 
